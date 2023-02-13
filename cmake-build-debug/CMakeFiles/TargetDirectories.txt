@@ -1,0 +1,3 @@
+D:/Projects/ClionProjects/bpnn-with-main/cmake-build-debug/CMakeFiles/bpnn_with_main.dir
+D:/Projects/ClionProjects/bpnn-with-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projects/ClionProjects/bpnn-with-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir

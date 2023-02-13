@@ -1,0 +1,7 @@
+# ninja log v5
+9	1158	6885643572131540	CMakeFiles/bpnn_with_main.dir/main.c.obj	a41a6b11c077a7db
+6	3024	6912567445165302	bpnn_with_main.exe	a4c90bb0b73025b6
+1	141	6979509985181852	CMakeFiles/bpnn_with_main.dir/main.c.obj	bd420669853e864b
+142	274	6979509986441825	bpnn_with_main.exe	f2052c9e00d267cf
+1	585	6979525715317812	CMakeFiles/bpnn_with_main.dir/main.c.obj	bd420669853e864b
+585	841	6979525717839821	bpnn_with_main.exe	f2052c9e00d267cf
